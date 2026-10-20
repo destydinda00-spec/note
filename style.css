@@ -4,7 +4,7 @@ body {
     color:  #191970; /* Warna teks utama (Biru Gelap) */
 }
 
-Desty Dinda Kirana Dinyta {
+.kartu-profil {
     width: 3000px ;
     margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
     padding: 20px;
@@ -14,11 +14,11 @@ Desty Dinda Kirana Dinyta {
 }
 
 
-kartu profil img {
+.kartu profil img {
     width: 150px;
     border-radius: 50%; /* Trik untuk membuat gambar persegi panjang menjadi lingkaran sempurna */
 }
- kartu profil {
+.kartu profil {
     /* ... (kode dari slide sebelumnya) ... */
     text-align: center; /* Menengahkan semua text di dalam kartu */
     }
